@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Salem here ⚡</h1>
+<p align="center">Web Developer | Passionate about modern frontend & backend technologies 🚀</p>
 
-<!--
-**devSloom3/devSloom3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 I build modern websites, web apps, and bots using full-stack technologies.
+- 🤖 I also create and manage servers using automated bot systems.
+- 💼 I'm currently a student specializing in Artificial Intelligence and Full-Stack Web Development.
+- 🚀 I enjoy exploring new technologies and working on personal and open-source projects.
+- 📫 Reach me on [X/Twitter](https://x.com/dev_Sloom)
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933" />
+  <img src="https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&color=000000" />
+  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&color=38B2AC" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+  </a>
+</p>
+
+---

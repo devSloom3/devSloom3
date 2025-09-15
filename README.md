@@ -1,4 +1,4 @@
-<h1 align="center">Salem here ⚡</h1>
+<h1 align="center">Salem ⚡</h1>
 <p align="center">Web Developer | Passionate about modern frontend & backend technologies 🚀</p>
 
 ---

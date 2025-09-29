@@ -47,7 +47,7 @@
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/devSloom3/weclome-bot-discord">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
   </a>
   <a href="https://github.com/yourusername/project2">

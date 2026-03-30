@@ -1,5 +1,5 @@
-<h1 align="center">Salem ⚡</h1>
-<p align="center">Web Developer | Passionate about modern frontend & backend technologies 🚀</p>
+<h1 align="center">Salem </h1>
+<p align="center">Software Developer | Passionate about modern frontend & backend technologies </p>
 
 ---
 
